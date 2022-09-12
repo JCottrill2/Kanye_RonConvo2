@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fV4Iw4TeoOdlE7+NlZ9axsoCkwpoA4qyHY1hwB4mYru7aKhx5MfhJOi9bIzLaxc0wR65IqFLBt8DmaQZXshKjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jessica\\Desktop\\Repos\\Kanye_RonConvo2\\Kanye_RonConvo2\\Kanye_RonConvo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jessica\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\bin\Debug\net6.0\Kanye_RonConvo2.exe
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\bin\Debug\net6.0\Kanye_RonConvo2.deps.json
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\bin\Debug\net6.0\Kanye_RonConvo2.runtimeconfig.json
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\bin\Debug\net6.0\Kanye_RonConvo2.dll
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\bin\Debug\net6.0\Kanye_RonConvo2.pdb
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.csproj.AssemblyReference.cache
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.AssemblyInfoInputs.cache
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.AssemblyInfo.cs
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.csproj.CopyComplete
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.dll
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\refint\Kanye_RonConvo2.dll
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.pdb
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\Kanye_RonConvo2.genruntimeconfig.cache
+C:\Users\Jessica\Desktop\Repos\Kanye_RonConvo2\Kanye_RonConvo2\obj\Debug\net6.0\ref\Kanye_RonConvo2.dll
